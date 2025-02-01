@@ -16,4 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-testing using floating_logger v.0.0.4
+testing using pub :
+  pretty_dio_logger: ^1.4.0
+  floating_logger: ^0.0.4
