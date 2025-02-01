@@ -30,7 +30,7 @@ environment:
 dependencies:
   cupertino_icons: ^1.0.8
   pretty_dio_logger: ^1.4.0
-  floating_logger: ^0.0.4
+  floating_logger: ^0.0.5
   flutter:
     sdk: flutter
 
